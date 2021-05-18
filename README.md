@@ -2,4 +2,4 @@
 - 👀 I’m interested in Node.js, Python, java and making discord bots
 - 🌱 I’m currently learning html, ccs, js
 - 💞️ I’m looking to collaborate on and website or discord bot
-- 📫 How to reach me @NotKj#0718 (Discord)
+- 📫 How to reach me @FullScopeJedi#1582 (Discord)
